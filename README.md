@@ -63,3 +63,12 @@ spotify-clone/
 🧠 Add dynamic playlists and recently played sections
 🌓 Add full dark/light mode toggle
 
+---
+
+## Author
+
+**Mahek Agrawal**     
+👩🏻‍💻Computer Engineer         
+GitHub: https://github.com/mahekagrawal16      
+LinkedIn: https://linkedin.com/in/mahek-agrawal-503819255   
+Email: mahek.suresh.aug2004@gmail.com  
