@@ -56,13 +56,13 @@ spotify-clone/
 
 ---
 
-🎯 Future Enhancements
-
-🎵 Integrate real audio playback (using <audio> tag or Web Audio API)
-🔗 Connect to Spotify API for real-time data
-🧠 Add dynamic playlists and recently played sections
-🌓 Add full dark/light mode toggle
-
+🎯 Future Enhancements         
+             
+🎵 Integrate real audio playback (using <audio> tag or Web Audio API)            
+🔗 Connect to Spotify API for real-time data         
+🧠 Add dynamic playlists and recently played sections     
+🌓 Add full dark/light mode toggle    
+   
 ---
 
 ## Author
