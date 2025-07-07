@@ -12,7 +12,7 @@ It recreates the look and feel of Spotify with an emphasis on design, accessibil
 
 ## 🖼️ Preview
 
-![preview](img/screenshot.png)
+![preview](img/Screenshot.png)
 
 ---
 
@@ -44,15 +44,15 @@ It recreates the look and feel of Spotify with an emphasis on design, accessibil
 ## 📂 Project Structure
 
 spotify-clone/
-├── index.html # Main entry point
-├── style.css # Custom styles and responsiveness
-├── script.js # JavaScript interactivity
-├── img/ # Icons and media assets
-│ ├── logo.png
-│ ├── home.svg
-│ ├── search.svg
-│ ├── playlist.svg
-│ └── close.svg
+├── index.html # Main entry point         
+├── style.css # Custom styles and responsiveness        
+├── script.js # JavaScript interactivity      
+├── img/ # Icons and media assets       
+│ ├── logo.png      
+│ ├── home.svg         
+│ ├── search.svg        
+│ ├── playlist.svg         
+│ └── close.svg        
 
 ---
 
@@ -68,7 +68,7 @@ spotify-clone/
 ## Author
 
 **Mahek Agrawal**     
-👩🏻‍💻Computer Engineer         
-GitHub: https://github.com/mahekagrawal16      
-LinkedIn: https://linkedin.com/in/mahek-agrawal-503819255   
+👩🏻‍💻Computer Engineer                  
+GitHub: https://github.com/mahekagrawal16                
+LinkedIn: https://linkedin.com/in/mahek-agrawal-503819255          
 Email: mahek.suresh.aug2004@gmail.com  
