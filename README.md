@@ -43,7 +43,7 @@ It recreates the look and feel of Spotify with an emphasis on design, accessibil
 
 ## 📂 Project Structure
 
-spotify-clone/
+spotify-clone/       
 ├── index.html # Main entry point         
 ├── style.css # Custom styles and responsiveness        
 ├── script.js # JavaScript interactivity      
